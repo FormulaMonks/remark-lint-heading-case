@@ -1,0 +1,15 @@
+{
+  "description": "remark-lint rule to warn on headings not using title case",
+  "dependencies": {
+    "strip-markdown": "^3.1.2",
+    "title-case": "^3.0.2",
+    "unified-lint-rule": "^1.0.5",
+    "unist-util-visit": "^2.0.2"
+  },
+  "license": "ISC",
+  "name": "remark-lint-heading-case",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Theorem/remark-lint-heading-case"
+  }
+}
